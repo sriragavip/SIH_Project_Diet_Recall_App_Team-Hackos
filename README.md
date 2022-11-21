@@ -7,3 +7,4 @@ Sai Koushik
 Tharun Balaji
 
 App UI Design
+Checkout here: https://bit.ly/DietRecallApp-UIDesign
